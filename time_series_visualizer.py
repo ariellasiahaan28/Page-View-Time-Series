@@ -63,7 +63,7 @@ def draw_box_plot():
     axes[1] = sns.boxplot(x=df_box["month"], y=df_box["value"], ax = axes[1])
 
     axes[0].set_title("Year-wise Box Plot (Trend)")
-    axes[0].set_xlabel("Month")
+    axes[0].set_xlabel("Year")
     axes[0].set_ylabel("Page Views")
 
     axes[1].set_title("Month-wise Box Plot (Seasonality)")
