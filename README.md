@@ -1,5 +1,7 @@
 # Page View Time Series Visualizer
 
+Note: This project was created in 2023 on Replit and has been moved to GitHub in 2025 for convenience
+
 The Page View Time Series Visualizer project focuses on analyzing time-series data of website page views. The task involves cleaning the data and visualizing it using Python libraries like pandas and Matplotlib. The project includes generating line plots, bar charts, and interactive visualizations to identify trends over time.
 
 For this project I visualize time series data using a line chart, bar chart, and box plots. I use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will help you understand the patterns in visits and identify yearly and monthly growth.
